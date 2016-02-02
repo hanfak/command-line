@@ -1,0 +1,26 @@
+wc shell command
+----------------
+
+Example
+-------
+
+wc file
+
+returns the number of lines, words count and number of characters
+
+Example
+-------
+
+wc -w file 
+
+returns the word count in file
+
+wc -l file 
+
+returns the number of lines in file
+
+wc -c file 
+
+returns the number of characters in file
+
+For more information see http://ss64.com/bash/wc.html
