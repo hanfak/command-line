@@ -1,0 +1,11 @@
+grep shell command 
+------------------
+
+Example
+-------
+
+grep someWord file
+
+searches and returns all the lines that contain someWord in file
+
+For more information see http://ss64.com/bash/grep.html
